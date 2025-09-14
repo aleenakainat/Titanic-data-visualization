@@ -27,9 +27,9 @@ It demonstrates essential plots for data exploration: bar charts, scatter plots,
 
 ### Sample Outputs
 
-![Bar Chart](sample_outputs/bar_chart_class.png)  
-![Scatter Plot](sample_outputs/scatter_age_fare.png)  
-![Boxplot](sample_outputs/boxplot_fare_embarked.png)  
+![Bar Chart](sample_outputs/bar_chart_class.PNG)  
+![Scatter Plot](sample_outputs/scatter_age_fare.PNG)  
+![Boxplot](sample_outputs/boxplot_fare_embarked.PNG)  
 ![Heatmap](sample_outputs/heatmap_titanic.png)  
 ![Survival by Gender](sample_outputs/survival_by_gender.png)
 
